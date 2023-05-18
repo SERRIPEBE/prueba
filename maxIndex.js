@@ -7,7 +7,8 @@ function maxIndex(numbers){
                 max=numbers[i];
                 maxIn=i;
             }
-        }   
+        } 
+        return maxIn  
     }
     maxIn =-1;
     return maxIn;

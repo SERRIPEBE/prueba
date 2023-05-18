@@ -8,8 +8,7 @@
             }
             return maxn;
         }
-          
-        }
+    }
 
 
 console.log(max([1, 3, 2])) // 3
